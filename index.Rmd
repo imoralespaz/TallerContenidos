@@ -7,28 +7,20 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+description: "Taller en linea para el desarrollo de habilidades en la
+producción de contenidos digitales para el aprendizaje.
+El taller esta destinado a profesores de enseñanza básica."
 ---
 
-# Prerequisites
+# Requisitos para participar en el taller.
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
+Contar con correo electrónico, es ideal una cuenta en Gmail.
+Es necesario disponer de una conexión estable a Internet.
+Utilizaremos la plataforma Zoom, por lo mismo es recomendable utilizar 
+audifonos, con esto evitamos el ruido que produce el parlante.
+La duración de las 4 sesiones serán de una hora (60 minutos)
+Pruebe su conxión a Internet 5 minutos antes de iniciar la sesión.
 
-The **bookdown** package can be installed from CRAN or Github:
 
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
-
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
 ```
