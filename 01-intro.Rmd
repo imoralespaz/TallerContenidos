@@ -1,6 +1,7 @@
 # Introduction {#intro}
 
 Objetivos del taller:
+Desarrollar competencias funcionales.
 
 ```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
 par(mar = c(4, 4, .1, .1))
