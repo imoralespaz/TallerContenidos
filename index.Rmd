@@ -19,8 +19,5 @@ Es necesario disponer de una conexión estable a Internet.
 Utilizaremos la plataforma Zoom, por lo mismo es recomendable utilizar 
 audifonos, con esto evitamos el ruido que produce el parlante.
 La duración de las 4 sesiones serán de una hora (60 minutos)
-Pruebe su conxión a Internet 5 minutos antes de iniciar la sesión.
+Pruebe su conexión a Internet 5 minutos antes de iniciar la sesión.
 
-
-
-```
